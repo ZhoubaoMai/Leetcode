@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Until 2018-11-07 18:24:09, I have solved 16 / 883 problems. 
 ----------------
 ## LeetCode Solution Table
@@ -21,7 +20,4 @@ Until 2018-11-07 18:24:09, I have solved 16 / 883 problems.
 |217| Contains Duplicate|Easy|[solution](array/217.%20Contains%20Duplicate.py)|
 |169| Majority Element|Easy|[solution](array/169.%20Majority%20Element.py)|
 =======
-# leetcode
-My solution for leetcode
 
->>>>>>> d1c6888a1167cf55f5918d2452ad9c835530e994
