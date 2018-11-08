@@ -1,4 +1,4 @@
-Until 2018-11-07 21:57:25, I have solved 17 / 883 problems. 
+Until 2018-11-08 15:54:48, I have solved 19 / 883 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
@@ -7,11 +7,13 @@ Until 2018-11-07 21:57:25, I have solved 17 / 883 problems.
 |167| Two Sum II - Input array is sorted|Easy|[solution](array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|
 |169| Majority Element|Easy|[solution](array/169.%20Majority%20Element.py)|
 |217| Contains Duplicate|Easy|[solution](array/217.%20Contains%20Duplicate.py)|
+|268| Missing Number|Easy|[solution](array/268.%20Missing%20Number.py)|
 |283| Move Zeroes|Easy|[solution](array/283.%20Move%20Zeroes.py)|
 |448| Find All Numbers Disappeared in an Array|Easy|[solution](array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)|
 |485| Max Consecutive Ones|Easy|[solution](array/485.%20Max%20Consecutive%20Ones.py)|
 |561| Array Partition I|Easy|[solution](array/561.%20Array%20Partition%20I.py)|
 |566| Reshape the Matrix|Easy|[solution](array/566.%20Reshape%20the%20Matrix.py)|
+|661| Image Smoother|Easy|[solution](array/661.%20Image%20Smoother.py)|
 |697| Degree of an Array|Easy|[solution](array/697.%20Degree%20of%20an%20Array.py)|
 |717| 1-bit and 2-bit Characters|Easy|[solution](array/717.%201-bit%20and%202-bit%20Characters.py)|
 |766| Toeplitz Matrix|Easy|[solution](array/766.%20Toeplitz%20Matrix.py)|
