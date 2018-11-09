@@ -43,6 +43,7 @@ def update_readme(path, difficulties, solutions):
         for solution in solutions:
             ID = solution[1]
             Title = solution[2]
+            # print(ID, Title)
             Difficulty = difficulties[ID]
             tag = solution[0]
             name = Title.replace(' ', '%20')
