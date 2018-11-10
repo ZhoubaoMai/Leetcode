@@ -1,4 +1,4 @@
-Until 2018-11-10 00:20:06, I have solved 33 / 883 problems. 
+Until 2018-11-11 00:25:02, I have solved 40 / 883 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
@@ -11,6 +11,7 @@ Until 2018-11-10 00:20:06, I have solved 33 / 883 problems.
 |167| Two Sum II - Input array is sorted|Easy|[solution](array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|
 |169| Majority Element|Easy|[solution](array/169.%20Majority%20Element.py)|
 |217| Contains Duplicate|Easy|[solution](array/217.%20Contains%20Duplicate.py)|
+|219| Contains Duplicate II|Easy|[solution](array/219.%20Contains%20Duplicate%20II.py)|
 |26| Remove Duplicates from Sorted Array|Easy|[solution](array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|
 |268| Missing Number|Easy|[solution](array/268.%20Missing%20Number.py)|
 |27| Remove Element|Easy|[solution](array/27.%20Remove%20Element.py)|
@@ -21,6 +22,9 @@ Until 2018-11-10 00:20:06, I have solved 33 / 883 problems.
 |53| Maximum Subarray|Easy|[solution](array/53.%20Maximum%20Subarray.py)|
 |561| Array Partition I|Easy|[solution](array/561.%20Array%20Partition%20I.py)|
 |566| Reshape the Matrix|Easy|[solution](array/566.%20Reshape%20the%20Matrix.py)|
+|581| Shortest Unsorted Continuous Subarray|Easy|[solution](array/581.%20Shortest%20Unsorted%20Continuous%20Subarray.py)|
+|605| Can Place Flowers|Easy|[solution](array/605.%20Can%20Place%20Flowers.py)|
+|643| Maximum Average Subarray I|Easy|[solution](array/643.%20Maximum%20Average%20Subarray%20I.py)|
 |66| Plus One|Easy|[solution](array/66.%20Plus%20One.py)|
 |661| Image Smoother|Easy|[solution](array/661.%20Image%20Smoother.py)|
 |674| Longest Continuous Increasing Subsequence|Easy|[solution](array/674.%20Longest%20Continuous%20Increasing%20Subsequence.py)|
@@ -32,7 +36,10 @@ Until 2018-11-10 00:20:06, I have solved 33 / 883 problems.
 |766| Toeplitz Matrix|Easy|[solution](array/766.%20Toeplitz%20Matrix.py)|
 |830| Positions of Large Groups|Easy|[solution](array/830.%20Positions%20of%20Large%20Groups.py)|
 |832| Flipping an Image|Easy|[solution](array/832.%20Flipping%20an%20Image.py)|
+|840| Magic Squares In Grid|Easy|[solution](array/840.%20Magic%20Squares%20In%20Grid.py)|
 |867| Transpose Matrix|Easy|[solution](array/867.%20Transpose%20Matrix.py)|
+|88| Merge Sorted Array|Easy|[solution](array/88.%20Merge%20Sorted%20Array.py)|
 |888| Fair Candy Swap|Easy|[solution](array/888.%20Fair%20Candy%20Swap.py)|
 |896| Monotonic Array|Easy|[solution](array/896.%20Monotonic%20Array.py)|
 |905| Sort Array By Parity|Easy|[solution](array/905.%20Sort%20Array%20By%20Parity.py)|
+|914| X of a Kind in a Deck of Cards|Easy|[solution](array/914.%20X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.py)|
