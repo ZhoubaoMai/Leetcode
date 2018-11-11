@@ -1,4 +1,4 @@
-Until 2018-11-11 00:25:02, I have solved 40 / 883 problems. 
+Until 2018-11-11 15:24:57, I have solved 44 / 887 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
@@ -10,6 +10,7 @@ Until 2018-11-11 00:25:02, I have solved 40 / 883 problems.
 |122| Best Time to Buy and Sell Stock II|Easy|[solution](array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|
 |167| Two Sum II - Input array is sorted|Easy|[solution](array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|
 |169| Majority Element|Easy|[solution](array/169.%20Majority%20Element.py)|
+|189| Rotate Array|Easy|[solution](array/189.%20Rotate%20Array.py)|
 |217| Contains Duplicate|Easy|[solution](array/217.%20Contains%20Duplicate.py)|
 |219| Contains Duplicate II|Easy|[solution](array/219.%20Contains%20Duplicate%20II.py)|
 |26| Remove Duplicates from Sorted Array|Easy|[solution](array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|
@@ -17,9 +18,12 @@ Until 2018-11-11 00:25:02, I have solved 40 / 883 problems.
 |27| Remove Element|Easy|[solution](array/27.%20Remove%20Element.py)|
 |283| Move Zeroes|Easy|[solution](array/283.%20Move%20Zeroes.py)|
 |35| Search Insert Position|Easy|[solution](array/35.%20Search%20Insert%20Position.py)|
+|414| Third Maximum Number|Easy|[solution](array/414.%20Third%20Maximum%20Number.py)|
+|442| Find All Duplicates in an Array|Medium|[solution](array/442.%20Find%20All%20Duplicates%20in%20an%20Array.py)|
 |448| Find All Numbers Disappeared in an Array|Easy|[solution](array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)|
 |485| Max Consecutive Ones|Easy|[solution](array/485.%20Max%20Consecutive%20Ones.py)|
 |53| Maximum Subarray|Easy|[solution](array/53.%20Maximum%20Subarray.py)|
+|532| K-diff Pairs in an Array|Easy|[solution](array/532.%20K-diff%20Pairs%20in%20an%20Array.py)|
 |561| Array Partition I|Easy|[solution](array/561.%20Array%20Partition%20I.py)|
 |566| Reshape the Matrix|Easy|[solution](array/566.%20Reshape%20the%20Matrix.py)|
 |581| Shortest Unsorted Continuous Subarray|Easy|[solution](array/581.%20Shortest%20Unsorted%20Continuous%20Subarray.py)|
