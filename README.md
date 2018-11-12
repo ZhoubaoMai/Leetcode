@@ -1,4 +1,4 @@
-Until 2018-11-12 17:56:57, I have solved 50 / 887 problems. 
+Until 2018-11-12 22:54:25, I have solved 52 / 887 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
@@ -13,6 +13,7 @@ Until 2018-11-12 17:56:57, I have solved 50 / 887 problems.
 |189| Rotate Array|Easy|[solution](array/189.%20Rotate%20Array.py)|
 |217| Contains Duplicate|Easy|[solution](array/217.%20Contains%20Duplicate.py)|
 |219| Contains Duplicate II|Easy|[solution](array/219.%20Contains%20Duplicate%20II.py)|
+|229| Majority Element II|Medium|[solution](array/229.%20Majority%20Element%20II.py)|
 |238| Product of Array Except Self|Medium|[solution](array/238.%20Product%20of%20Array%20Except%20Self.py)|
 |26| Remove Duplicates from Sorted Array|Easy|[solution](array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|
 |268| Missing Number|Easy|[solution](array/268.%20Missing%20Number.py)|
@@ -44,6 +45,7 @@ Until 2018-11-12 17:56:57, I have solved 50 / 887 problems.
 |747| Largest Number At Least Twice of Others|Easy|[solution](array/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)|
 |766| Toeplitz Matrix|Easy|[solution](array/766.%20Toeplitz%20Matrix.py)|
 |769| Max Chunks To Make Sorted|Medium|[solution](array/769.%20Max%20Chunks%20To%20Make%20Sorted.py)|
+|80| Remove Duplicates from Sorted Array II|Medium|[solution](array/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|
 |830| Positions of Large Groups|Easy|[solution](array/830.%20Positions%20of%20Large%20Groups.py)|
 |832| Flipping an Image|Easy|[solution](array/832.%20Flipping%20an%20Image.py)|
 |840| Magic Squares In Grid|Easy|[solution](array/840.%20Magic%20Squares%20In%20Grid.py)|
