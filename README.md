@@ -1,4 +1,4 @@
-Until 2018-11-12 00:00:14, I have solved 46 / 887 problems. 
+Until 2018-11-12 17:56:57, I have solved 50 / 887 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
@@ -23,15 +23,18 @@ Until 2018-11-12 00:00:14, I have solved 46 / 887 problems.
 |442| Find All Duplicates in an Array|Medium|[solution](array/442.%20Find%20All%20Duplicates%20in%20an%20Array.py)|
 |448| Find All Numbers Disappeared in an Array|Easy|[solution](array/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)|
 |485| Max Consecutive Ones|Easy|[solution](array/485.%20Max%20Consecutive%20Ones.py)|
+|495| Teemo Attacking|Medium|[solution](array/495.%20Teemo%20Attacking.py)|
 |53| Maximum Subarray|Easy|[solution](array/53.%20Maximum%20Subarray.py)|
 |532| K-diff Pairs in an Array|Easy|[solution](array/532.%20K-diff%20Pairs%20in%20an%20Array.py)|
 |561| Array Partition I|Easy|[solution](array/561.%20Array%20Partition%20I.py)|
+|565| Array Nesting|Medium|[solution](array/565.%20Array%20Nesting.py)|
 |566| Reshape the Matrix|Easy|[solution](array/566.%20Reshape%20the%20Matrix.py)|
 |581| Shortest Unsorted Continuous Subarray|Easy|[solution](array/581.%20Shortest%20Unsorted%20Continuous%20Subarray.py)|
 |605| Can Place Flowers|Easy|[solution](array/605.%20Can%20Place%20Flowers.py)|
 |643| Maximum Average Subarray I|Easy|[solution](array/643.%20Maximum%20Average%20Subarray%20I.py)|
 |66| Plus One|Easy|[solution](array/66.%20Plus%20One.py)|
 |661| Image Smoother|Easy|[solution](array/661.%20Image%20Smoother.py)|
+|667| Beautiful Arrangement II|Medium|[solution](array/667.%20Beautiful%20Arrangement%20II.py)|
 |674| Longest Continuous Increasing Subsequence|Easy|[solution](array/674.%20Longest%20Continuous%20Increasing%20Subsequence.py)|
 |695| Max Area of Island|Medium|[solution](array/695.%20Max%20Area%20of%20Island.py)|
 |697| Degree of an Array|Easy|[solution](array/697.%20Degree%20of%20an%20Array.py)|
@@ -40,6 +43,7 @@ Until 2018-11-12 00:00:14, I have solved 46 / 887 problems.
 |746| Min Cost Climbing Stairs|Easy|[solution](array/746.%20Min%20Cost%20Climbing%20Stairs.py)|
 |747| Largest Number At Least Twice of Others|Easy|[solution](array/747.%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py)|
 |766| Toeplitz Matrix|Easy|[solution](array/766.%20Toeplitz%20Matrix.py)|
+|769| Max Chunks To Make Sorted|Medium|[solution](array/769.%20Max%20Chunks%20To%20Make%20Sorted.py)|
 |830| Positions of Large Groups|Easy|[solution](array/830.%20Positions%20of%20Large%20Groups.py)|
 |832| Flipping an Image|Easy|[solution](array/832.%20Flipping%20an%20Image.py)|
 |840| Magic Squares In Grid|Easy|[solution](array/840.%20Magic%20Squares%20In%20Grid.py)|

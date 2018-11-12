@@ -29,11 +29,36 @@ class Solution:
         rproduct.append(1)  # notice th rproduct is in reverse order
         j = len(nums)-1
         # print(nums, len(nums))
+        hasZero = 0 if nums[0] != 0 else 1 
         for i in range(1, len(nums)):
             j -= 1
             # print(i, j)
             lproduct.append(lproduct[i-1] * nums[i-1])
             rproduct.append(rproduct[i-1] * nums[j+1])
-        
-        # print(lproduct, rproduct)
+            if nums[i] == 0:
+                hasZero += 1
+        if hasZero > 1:
+            return [0] * len(nums)
         return [lproduct[i] * rproduct[len(nums)-1-i] for i in range(len(nums))]
+        
+        # 3. improvement of 2, use result array itself to store the lproduct and rproduct
+        # result = [1 for i in range(len(nums))]
+        # j = len(nums)-1
+        # for i in range(1, len(nums)):
+        #     j -= 1
+        #     result[i] = result[i-1] * nums[i-1]
+        #     result[j] = result[j+1] * nums[j+1]
+        # return result
+        
+#         n = len(nums)
+#         output = [0] * n
+#         p = 1
+#         for idx, val in enumerate(nums):
+#             output[idx] = p
+#             p *= val
+            
+#         p = 1
+#         for idx in range(n-1, -1, -1):
+#             output[idx] *= p
+#             p *= nums[idx]
+#         return output                                                                                                                                                                                                                                                                                                          
