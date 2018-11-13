@@ -1,9 +1,10 @@
-Until 2018-11-12 22:54:25, I have solved 52 / 887 problems. 
+Until 2018-11-13 22:21:10, I have solved 55 / 887 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
 |:---:|:---:|:---:|:---:|
 |1| Two Sum|Easy|[solution](array/1.%20Two%20Sum.py)|
+|11| Container With Most Water|Medium|[solution](array/11.%20Container%20With%20Most%20Water.py)|
 |118| Pascal's Triangle|Easy|[solution](array/118.%20Pascal's%20Triangle.py)|
 |119| Pascal's Triangle II|Easy|[solution](array/119.%20Pascal's%20Triangle%20II.py)|
 |121| Best Time to Buy and Sell Stock|Easy|[solution](array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
@@ -19,6 +20,7 @@ Until 2018-11-12 22:54:25, I have solved 52 / 887 problems.
 |268| Missing Number|Easy|[solution](array/268.%20Missing%20Number.py)|
 |27| Remove Element|Easy|[solution](array/27.%20Remove%20Element.py)|
 |283| Move Zeroes|Easy|[solution](array/283.%20Move%20Zeroes.py)|
+|287| Find the Duplicate Number|Medium|[solution](array/287.%20Find%20the%20Duplicate%20Number.py)|
 |35| Search Insert Position|Easy|[solution](array/35.%20Search%20Insert%20Position.py)|
 |414| Third Maximum Number|Easy|[solution](array/414.%20Third%20Maximum%20Number.py)|
 |442| Find All Duplicates in an Array|Medium|[solution](array/442.%20Find%20All%20Duplicates%20in%20an%20Array.py)|
@@ -27,6 +29,7 @@ Until 2018-11-12 22:54:25, I have solved 52 / 887 problems.
 |495| Teemo Attacking|Medium|[solution](array/495.%20Teemo%20Attacking.py)|
 |53| Maximum Subarray|Easy|[solution](array/53.%20Maximum%20Subarray.py)|
 |532| K-diff Pairs in an Array|Easy|[solution](array/532.%20K-diff%20Pairs%20in%20an%20Array.py)|
+|55| Jump Game|Medium|[solution](array/55.%20Jump%20Game.py)|
 |561| Array Partition I|Easy|[solution](array/561.%20Array%20Partition%20I.py)|
 |565| Array Nesting|Medium|[solution](array/565.%20Array%20Nesting.py)|
 |566| Reshape the Matrix|Easy|[solution](array/566.%20Reshape%20the%20Matrix.py)|
