@@ -56,7 +56,7 @@ def main():
     difficulties = list(get_leetcode_problems())
     difficulties = {key: value for (key,value) in difficulties}    
     solutions = list(read_solution("./"))
-    solutions = sorted(solutions, key = lambda x:x[1])
+    solutions = sorted(solutions, key = lambda x:int(x[1]))
     
     path = 'README.md'
     update_readme(path, difficulties, solutions)
