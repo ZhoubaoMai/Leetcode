@@ -1,4 +1,4 @@
-Until 2018-11-13 22:21:10, I have solved 55 / 887 problems. 
+Until 2018-11-17 23:02:36, I have solved 57 / 887 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
@@ -12,6 +12,7 @@ Until 2018-11-13 22:21:10, I have solved 55 / 887 problems.
 |167| Two Sum II - Input array is sorted|Easy|[solution](array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|
 |169| Majority Element|Easy|[solution](array/169.%20Majority%20Element.py)|
 |189| Rotate Array|Easy|[solution](array/189.%20Rotate%20Array.py)|
+|209| Minimum Size Subarray Sum|Medium|[solution](array/209.%20Minimum%20Size%20Subarray%20Sum.py)|
 |217| Contains Duplicate|Easy|[solution](array/217.%20Contains%20Duplicate.py)|
 |219| Contains Duplicate II|Easy|[solution](array/219.%20Contains%20Duplicate%20II.py)|
 |229| Majority Element II|Medium|[solution](array/229.%20Majority%20Element%20II.py)|
@@ -30,6 +31,7 @@ Until 2018-11-13 22:21:10, I have solved 55 / 887 problems.
 |53| Maximum Subarray|Easy|[solution](array/53.%20Maximum%20Subarray.py)|
 |532| K-diff Pairs in an Array|Easy|[solution](array/532.%20K-diff%20Pairs%20in%20an%20Array.py)|
 |55| Jump Game|Medium|[solution](array/55.%20Jump%20Game.py)|
+|56| Merge Intervals|Medium|[solution](array/56.%20Merge%20Intervals.py)|
 |561| Array Partition I|Easy|[solution](array/561.%20Array%20Partition%20I.py)|
 |565| Array Nesting|Medium|[solution](array/565.%20Array%20Nesting.py)|
 |566| Reshape the Matrix|Easy|[solution](array/566.%20Reshape%20the%20Matrix.py)|
