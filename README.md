@@ -1,4 +1,4 @@
-Until 2018-11-17 23:04:31, I have solved 57 / 887 problems. 
+Until 2018-11-18 23:21:52, I have solved 63 / 891 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
@@ -8,22 +8,28 @@ Until 2018-11-17 23:04:31, I have solved 57 / 887 problems.
 |26| Remove Duplicates from Sorted Array|Easy|[solution](array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py)|
 |27| Remove Element|Easy|[solution](array/27.%20Remove%20Element.py)|
 |35| Search Insert Position|Easy|[solution](array/35.%20Search%20Insert%20Position.py)|
+|39| Combination Sum|Medium|[solution](array/39.%20Combination%20Sum.py)|
+|40| Combination Sum II|Medium|[solution](array/40.%20Combination%20Sum%20II.py)|
 |53| Maximum Subarray|Easy|[solution](array/53.%20Maximum%20Subarray.py)|
 |55| Jump Game|Medium|[solution](array/55.%20Jump%20Game.py)|
 |56| Merge Intervals|Medium|[solution](array/56.%20Merge%20Intervals.py)|
 |66| Plus One|Easy|[solution](array/66.%20Plus%20One.py)|
+|75| Sort Colors|Medium|[solution](array/75.%20Sort%20Colors.py)|
 |80| Remove Duplicates from Sorted Array II|Medium|[solution](array/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|
 |88| Merge Sorted Array|Easy|[solution](array/88.%20Merge%20Sorted%20Array.py)|
 |118| Pascal's Triangle|Easy|[solution](array/118.%20Pascal's%20Triangle.py)|
 |119| Pascal's Triangle II|Easy|[solution](array/119.%20Pascal's%20Triangle%20II.py)|
 |121| Best Time to Buy and Sell Stock|Easy|[solution](array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
 |122| Best Time to Buy and Sell Stock II|Easy|[solution](array/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)|
+|152| Maximum Product Subarray|Medium|[solution](array/152.%20Maximum%20Product%20Subarray.py)|
 |167| Two Sum II - Input array is sorted|Easy|[solution](array/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py)|
 |169| Majority Element|Easy|[solution](array/169.%20Majority%20Element.py)|
 |189| Rotate Array|Easy|[solution](array/189.%20Rotate%20Array.py)|
 |209| Minimum Size Subarray Sum|Medium|[solution](array/209.%20Minimum%20Size%20Subarray%20Sum.py)|
+|216| Combination Sum III|Medium|[solution](array/216.%20Combination%20Sum%20III.py)|
 |217| Contains Duplicate|Easy|[solution](array/217.%20Contains%20Duplicate.py)|
 |219| Contains Duplicate II|Easy|[solution](array/219.%20Contains%20Duplicate%20II.py)|
+|228| Summary Ranges|Medium|[solution](array/228.%20Summary%20Ranges.py)|
 |229| Majority Element II|Medium|[solution](array/229.%20Majority%20Element%20II.py)|
 |238| Product of Array Except Self|Medium|[solution](array/238.%20Product%20of%20Array%20Except%20Self.py)|
 |268| Missing Number|Easy|[solution](array/268.%20Missing%20Number.py)|
