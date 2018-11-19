@@ -1,4 +1,4 @@
-Until 2018-11-18 23:21:52, I have solved 63 / 891 problems. 
+Until 2018-11-19 22:43:22, I have solved 65 / 891 problems. 
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | Python |
@@ -15,8 +15,10 @@ Until 2018-11-18 23:21:52, I have solved 63 / 891 problems.
 |56| Merge Intervals|Medium|[solution](array/56.%20Merge%20Intervals.py)|
 |66| Plus One|Easy|[solution](array/66.%20Plus%20One.py)|
 |75| Sort Colors|Medium|[solution](array/75.%20Sort%20Colors.py)|
+|78| Subsets|Medium|[solution](array/78.%20Subsets.py)|
 |80| Remove Duplicates from Sorted Array II|Medium|[solution](array/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|
 |88| Merge Sorted Array|Easy|[solution](array/88.%20Merge%20Sorted%20Array.py)|
+|90| Subsets II|Medium|[solution](array/90.%20Subsets%20II.py)|
 |118| Pascal's Triangle|Easy|[solution](array/118.%20Pascal's%20Triangle.py)|
 |119| Pascal's Triangle II|Easy|[solution](array/119.%20Pascal's%20Triangle%20II.py)|
 |121| Best Time to Buy and Sell Stock|Easy|[solution](array/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)|
